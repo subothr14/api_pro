@@ -1,6 +1,6 @@
 # 🚀 API PRO
 
-**API PRO** is a modern, animated landing page using Cursor, Project IDX designed to showcase a powerful API platform. Built with **React** and **Vite**, it features a sleek, responsive UI styled with **Tailwind CSS** and dynamic animations powered by **Framer Motion**. This project is also designed with **PWA** capabilities in mind, offering offline use and installability.
+**API PRO** is a modern, animated landing page designed to showcase a powerful API platform. Built with **React** and **Vite**, it features a sleek, responsive UI styled with **Tailwind CSS** and dynamic animations powered by **Framer Motion**. This project is also designed with **PWA** capabilities in mind, offering offline use and installability.
 
 ---
 
