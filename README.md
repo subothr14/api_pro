@@ -68,10 +68,7 @@ To preview the optimized production build locally:
 npm run preview
 ```
 
----
 
-
----
 
 ## 📄 License
 
