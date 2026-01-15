@@ -25,7 +25,7 @@ Follow these steps to get API PRO up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/SubothR/api_pro.git
+    git clone https://github.com/subothr14/api_pro.git
     ```
 
 2.  **Navigate into the project directory:**
