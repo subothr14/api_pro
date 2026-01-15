@@ -70,12 +70,6 @@ npm run preview
 
 ---
 
-## 🤖 AI Tools Used
-
-This project benefited from the assistance of several AI-powered development tools:
-
-* **Cursor AI:** Utilized for an enhanced developer experience, facilitating faster code generation, intelligent refactoring, and AI-assisted debugging.
-* **Project IDX (from Google):** Provided similar capabilities to Cursor AI, offering generative AI features for code improvement and streamlined error debugging.
 
 ---
 
