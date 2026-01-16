@@ -27,13 +27,8 @@ Follow these steps to get API PRO up and running on your local machine.
     ```bash
     git clone https://github.com/subothr14/api_pro.git
     ```
-
-2.  **Navigate into the project directory:**
-    ```bash
-    cd api_pro
-    ```
-
-3.  **Install dependencies:**
+    
+2.  **Install dependencies:**
     ```bash
     npm install
     ```
