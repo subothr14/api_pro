@@ -1,10 +1,10 @@
-# 🚀 API PRO
+# API PRO
 
 **API PRO** is a modern, animated landing page designed to showcase a powerful API platform. Built with **React** and **Vite**, it features a sleek, responsive UI styled with **Tailwind CSS** and dynamic animations powered by **Framer Motion**. This project is also designed with **PWA** capabilities in mind, offering offline use and installability.
 
 ---
 
-## ✨ Features
+## Features
 
 * **React + Vite:** Leveraging the speed and efficiency of Vite for a fast and modern development experience.
 * **Tailwind CSS:** For a utility-first approach to styling, ensuring a sleek and fully responsive user interface.
@@ -17,11 +17,11 @@
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 Follow these steps to get API PRO up and running on your local machine.
 
-### 🛠️ Installation
+### Installation
 
 1.  **Clone the repository:**
     ```bash
@@ -47,7 +47,7 @@ To preview the app on your mobile device on the same Wi-Fi network:
 npm run dev -- --host
 ```
 
-### 📦 Production Build
+### Production Build
 
 To build the application for production deployment:
 
@@ -55,7 +55,7 @@ To build the application for production deployment:
 npm run build
 ```
 
-### 🌐 Preview Production Build
+### Preview Production Build
 
 To preview the optimized production build locally:
 
