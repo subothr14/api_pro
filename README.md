@@ -33,7 +33,7 @@ Follow these steps to get API PRO up and running on your local machine.
     npm install
     ```
 
-### 🚀 Development Server
+### Development Server
 
 To start the development server and view the application in your browser:
 
